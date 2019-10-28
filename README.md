@@ -1,0 +1,1 @@
+The reversi file is private because it was created by other people.

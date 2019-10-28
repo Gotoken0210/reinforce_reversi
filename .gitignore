@@ -1,0 +1,6 @@
+*.pickle
+/notebook
+/src/reversi
+/__pycache__
+gpuplayer.py
+tmp.ipynb
